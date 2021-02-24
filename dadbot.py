@@ -3,7 +3,6 @@
 '''
     Chat Bot: Dad's Version
 '''
-
 import random 
 
 def getInput(questionPrompt, whoName="", errorMessage = 'Nothing was typed...'):

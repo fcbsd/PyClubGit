@@ -1,8 +1,8 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 print("Task 3\n")
 
 your_name=input("What's your name? ")
-
-
 
 fav_one=input("FavouriteFilm1 ")
 fav_two=input("FavouriteFilm2 ")

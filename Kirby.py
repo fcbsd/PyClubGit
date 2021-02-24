@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 import turtle
 t=turtle.Pen()
 t.fillcolor("LightPink")

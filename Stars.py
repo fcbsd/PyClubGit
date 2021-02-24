@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 print("Task 3\n")
 
 one_star=("*")
@@ -11,5 +13,4 @@ print(one_star * 5)
 i = 5
 while i > 0:
   i = i - 1
-  print(i * one_star)
-  
+  print(i * one_star) 

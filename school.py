@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 print("Task 2\n")
 
 name=input("What is your name? ")

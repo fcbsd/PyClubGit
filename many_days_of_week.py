@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 print("Task 4:part 2\n")
 
 my_day=input("What's your favourite day of the week? ")

@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
 print("Task 1\n")
 
 print("Where do you live?")
