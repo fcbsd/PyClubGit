@@ -1,2 +1,5 @@
+# Set Language to Python 3 
 language = "python3"
+# Set the Run button:
+# python3 main.py # calls main.py
 run = "python3 main.py"
