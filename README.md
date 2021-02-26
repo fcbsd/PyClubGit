@@ -6,4 +6,4 @@ Python code generated for a school python club.
 This repository is saved to GitHub using the [repl.it](https://repl.it) version control tab.
 
 To run the code click the button below:
-[![Run the code on Repl.it](https://repl.it/@TeamCrow/PyClub)](https://repl.it/@TeamCrow/PyClub)
+[![Run on Repl.it](https://repl.it/@TeamCrow/PyClub)](https://repl.it/@TeamCrow/PyClub)

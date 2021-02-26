@@ -1,21 +1,7 @@
+import time  # for sleep function
+
 import SquareAndStar
 
-
-#t.penup()
-#t.forward(110)
-#t.pendown()
-#square()
-
-#t.penup()
-#t.right(90)
-#t.forward(10)
-#t.pendown()
-#square()
-
-#t.penup()
-#t.left(270)
-#t.forward(10)
-#t.pendown()
-
-#square()
-
+# Sleep for 20 seconds to stop the python
+# window from disappearing immediately
+time.sleep(20)
