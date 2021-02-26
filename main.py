@@ -1,4 +1,4 @@
-import Windows
+import SquareAndStar
 
 
 #t.penup()
